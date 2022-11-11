@@ -1,3 +1,1 @@
-class GetMeteo{
-    constructor ()
-}
+var http = require('http');
